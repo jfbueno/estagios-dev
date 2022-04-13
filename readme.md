@@ -35,3 +35,5 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 ### [PagSeguro - PagTalents](https://pagseguro.uol.com.br/estagios/)
 
 ### [Cigam - Devs/Labs CIGAM](https://www.cigam.com.br/programas-de-formacao-cigam)
+
+### [Grupo Boticário - Desenvolve](https://desenvolve.grupoboticario.com.br/)
