@@ -28,7 +28,7 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [Accountify](https://www.vagas.com.br/vagas/v2174035/programa-de-estagio-accountfy-2021)
 
-### [MadeiraMadeira](https://estagiomm2021.gupy.io/)
+### [MadeiraMadeira](https://estagiomadeiratech.gupy.io/)
 
 ### [XP Inc](https://www.xpinc.com/estagio/)
 
