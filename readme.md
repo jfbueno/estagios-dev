@@ -39,3 +39,5 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 ### [Grupo Boticário - Desenvolve](https://desenvolve.grupoboticario.com.br/)
 
 ### [TIVIT](https://jobs.kenoby.com/tivitestagio)
+
+### [Zé Delivery - Zéstagio](https://vemser.ze.delivery/)
