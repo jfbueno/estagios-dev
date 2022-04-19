@@ -41,3 +41,5 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 ### [TIVIT](https://jobs.kenoby.com/tivitestagio)
 
 ### [Zé Delivery - Zéstagio](https://vemser.ze.delivery/)
+
+### [CI&T - Next Gen](https://ciandt.com/br/pt-br/carreiras/programa-de-estagio)
