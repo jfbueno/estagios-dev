@@ -42,4 +42,6 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [Zé Delivery - Zéstagio](https://vemser.ze.delivery/)
 
+## [Stone Pagamentos - Recruta Stone](https://www.recrutastone.com.br)
+
 ### [CI&T - Next Gen](https://ciandt.com/br/pt-br/carreiras/programa-de-estagio)
