@@ -50,6 +50,8 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [TOTVS](https://www.totvs.com/trabalhe-conosco/programa-de-estagio/)
 
+### [Lojas Quero-Quero - Quero-Quero Tech](https://lojasqueroquero.gupy.io/)
+
 # Programas de formação
 
 Programas que contam com cursos (pagos ou gratuitos) que linkam os estudantes às vagas de estágios em empresas.
