@@ -50,6 +50,10 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [TOTVS](https://www.totvs.com/trabalhe-conosco/programa-de-estagio/)
 
+### [Zallpy Digital](https://zallpy.gupy.io/)
+
+### [Grupo Panvel](https://grupodimed.gupy.io/)
+
 # Programas de formação
 
 Programas que contam com cursos (pagos ou gratuitos) que linkam os estudantes às vagas de estágios em empresas.
