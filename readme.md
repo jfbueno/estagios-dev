@@ -50,6 +50,8 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [TOTVS](https://www.totvs.com/trabalhe-conosco/programa-de-estagio/)
 
+### [Lojas Quero-Quero - Quero-Quero Tech](https://lojasqueroquero.gupy.io/)
+
 ### [Zallpy Digital](https://zallpy.gupy.io/)
 
 ### [Grupo Panvel](https://grupodimed.gupy.io/)
