@@ -10,7 +10,7 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [Rech - Talentos Dev](https://www.rech.com.br/pagina/programa-talentos-desenvolvedores-turma-2022#)
 
-### [DBC - Vem ser DBC](https://dbc.compleo.com.br/Visualizar/114403)
+### [DBC - Vem ser DBC](https://www.dbccompany.com.br/vem-ser/)
 
 ### [Dell](https://carreiras.dell.com/internships)
 
