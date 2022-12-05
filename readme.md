@@ -12,7 +12,7 @@ Alguns dos links são de campanhas do ano passado, mas provavelmente vão ocorre
 
 ### [DBC - Vem ser DBC](https://www.dbccompany.com.br/vem-ser/)
 
-### [Dell](https://carreiras.dell.com/internships)
+### [Dell](https://carreiras.dell.com/estagios)
 
 ### [Philips - Desenvolve](https://www.careers.philips.com/student/latam/pt/philips-desenvolve)
 
